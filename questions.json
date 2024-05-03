@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a14"
+  },
+  "id": 1,
+  "text": "Does Stranger Things have",
+  "text2": "more viewers than Breaking Bad?",
+  "answer": true,
+  "imageUrls": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1200px-Breaking_Bad_logo.svg.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a15"
+  },
+  "id": 2,
+  "text": "Does The Office have",
+  "text2": "more viewers than Friends?",
+  "answer": false,
+  "imageUrls": [
+    "https://imgs.search.brave.com/XZ6UtsxVrG_zP0aZZpS3d4vFT-xlN4jcfC7_f40sUHc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvNDc1/ODk2MS5qcGc",
+    "https://imgs.search.brave.com/CRGxG_6OyCM5sUKXWtZwnP_LVnImnlRix942TxXb4YM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/cWFfYy1PekxNVWV0/VmxnaHcwQkwzUjVa/RFNvPS8xNTAweDAv/ZmlsdGVyczpub191/cHNjYWxlKCk6bWF4/X2J5dGVzKDE1MDAw/MCk6c3RyaXBfaWNj/KCk6Zm9jYWwoNzM0/eDMzOTo3MzZ4MzQx/KS9mcmllbmRzLWNh/c3QtMi1kYjdmM2Zm/ODNjZjk0NmEwYmU4/Yzg4NDE3YzA4MTYw/Ny5qcGc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a16"
+  },
+  "id": 3,
+  "text": "Does Game of Thrones have",
+  "text2": "more viewers than The Sopranos?",
+  "answer": true,
+  "imageUrls": [
+    "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/6/6e/Sopranos_titlescreen.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a17"
+  },
+  "id": 4,
+  "text": "Does Sherlock have",
+  "text2": "more viewers than Doctor Who?",
+  "answer": false,
+  "imageUrls": [
+    "https://upload.wikimedia.org/wikipedia/en/4/4d/Sherlock_titlecard.jpg",
+    "https://imgs.search.brave.com/-TPuufPcnciXt-iE1sCOHWfCGEDTrfE7qo5ANOUlc_E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDU5/NjE4MzYxL3Bob3Rv/L2RvY3Rvci13aG8u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PVRsTXpoVHo1azVp/cURDS2h5TEk2Y1Mt/d2hDMFBlMWN3M2pi/WlZ6MUtGVGM9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a18"
+  },
+  "id": 5,
+  "text": "Does The Mandalorian have",
+  "text2": "more viewers than Star Wars: The Clone Wars?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/lzXl1-QPkjIipywBmXqsm0AKg8whuPD99NA9h4UQiGM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVub2ZnZWVrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wNC9zdGFyLXdh/cnMtdGhlLW1hbmRh/bG9yaWFuLXNlYXNv/bi0zLWNhc3QtY2hh/cmFjdGVycy1jYW1l/b3MuanBnP3Jlc2l6/ZT03NjgsNDMy",
+    "https://imgs.search.brave.com/yUXjxKw_CJaeU9_76IbOiqBMJ2UwkCA2ZvFIzeKium8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sdW1p/ZXJlLWEuYWthbWFp/aGQubmV0L3YxL2lt/YWdlcy9jbG9uZS13/YXJzLWNocm9ub2xv/Z2ljYWwtb3JkZXIt/YWhzb2thX3RhbGxf/Njc2OGQ2MjguanBl/Zz9yZWdpb249MCww/LDE1MzYsODY0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a19"
+  },
+  "id": 6,
+  "text": "Does Rick and Morty have",
+  "text2": "more viewers than Adventure Time?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/Sr_1_il4Cm_YTve6VsamwnGxRed1OwKhg4K0PiH1jSw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvY29vbC1yaWNr/LWFuZC1tb3J0eS1w/aWN0dXJlcy0ycXkx/eHlzaHcwaDl1eGs0/LmpwZw",
+    "https://upload.wikimedia.org/wikipedia/en/3/37/Adventure_Time_-_Title_card.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1a"
+  },
+  "id": 7,
+  "text": "Does Black Mirror have",
+  "text2": "more viewers than Westworld?",
+  "answer": false,
+  "imageUrls": [
+    "https://upload.wikimedia.org/wikipedia/en/2/24/BlackMirrorTitleCard.jpg",
+    "https://imgs.search.brave.com/DNNzGo27-SRCFij_PW9YOqgkmsbRSdDI9qZWIEZL-X4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y25ldC5jb20vYS9p/bWcvcmVzaXplLzMw/NTE3MjcyYWEyYWFm/NTVmMTZiYTBmMDFh/M2E2MmRlYmY5NWVl/MDEvaHViLzIwMTgv/MDMvMTYvZTE4ZTQ5/MzItMjkzNC00ZTI5/LThjNDktZmM0OTAy/OGUxNTBkL3dlc3R3/b3JsZC1zMi0xLmpw/Zz9hdXRvPXdlYnAm/d2lkdGg9MTIwMA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1b"
+  },
+  "id": 8,
+  "text": "Does The Crown have",
+  "text2": "more viewers than The Tudors?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/ffLPAKh5yu25uPDgNioFG8TWHUxGmp5koC_3gZU2GNE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzQx/NDcwYzg3LWFiMzMt/NDMxMS1iMWQyLWY3/ODhiNTY4ZmU5Yy5f/X0NSMCw0OCwyMDAw/LDEyMzdfUFQwX1NY/OTcwX1YxX19fLmpw/Zw",
+    "https://imgs.search.brave.com/vnCR6DDao8G4FTA9ugxrXZnq5R8dhXrNbySf4oZasWg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0YWNyaXRpYy5j/b20vYS9pbWcvY2F0/YWxvZy9wcm92aWRl/ci8yLzEzLzItMWJj/NjhkYzYxMjNkODA3/YmM1NWQ0MzEyMmVh/MWY3NmUuanBn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1c"
+  },
+  "id": 9,
+  "text": "Does Brooklyn Nine-Nine have",
+  "text2": "more viewers than Parks and Recreation?",
+  "answer": false,
+  "imageUrls": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Brooklyn_Nine-Nine_Logo.png",
+    "https://imgs.search.brave.com/DKWBikcAZRa1z_jnyRi33qYMxctBx0h7ZDltduONr5s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yb29z/dC5uYmN1bmkuY29t/L2Jpbi92aWV3YXNz/ZXQuaHRtbC9jb250/ZW50L2RhbS9QZWFj/b2NrL0xhbmRpbmct/UGFnZXMvMi0wLWRl/c2lnbi9wYXJrcy1h/bmQtcmVjL3Bhcmtz/LWFuZC1yZWMtczEu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LkpQRUc_ZG93bnNp/emU9MTIwMDoqJm91/dHB1dC1mb3JtYXQ9/d2VicCZvdXRwdXQt/cXVhbGl0eT03MA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1d"
+  },
+  "id": 10,
+  "text": "Does Peaky Blinders have",
+  "text2": "more viewers than Boardwalk Empire?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/JF7nSJbrN7R5nzgwSolVU6QhjCx-Z9MV2FfEopLCuFk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2VzcXVpcmV1/ay5jZG5kcy5uZXQv/MTcvMTMvMjA0OHgx/MTUyL2hkLWFzcGVj/dC0xNDkwNzE0NDc4/LXBlYWt5LWNpbGxp/YW4uanBnP3Jlc2l6/ZT0xMjAwOio",
+    "https://imgs.search.brave.com/FAY44sZaKzJn_s2xoSPgc-TOjgIPugOOt2xk37d0gtQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY2RuLnByZC5h/cGkuZGlzY29tYXgu/Y29tLzIwMjMvMDUv/MDIvN2I1MjU2MWUt/NDAzZC0zMzEyLThl/YTItOTY0ZWMxNDll/ZWRlLmpwZWc_Zj1q/cGcmcT03NSZ3PTEy/ODAmdz0xMjAw"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1e"
+  },
+  "id": 11,
+  "text": "Does The Witcher have",
+  "text2": "more viewers than Vikings?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/Uj5ahlyQS2N0QH5ZlQKKSx-Dse6mMxeN758CoK2_FiE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92YXJp/ZXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8xMi9X/aXRjaGVyLmpwZz93/PTEwMDAmaD01NjMm/Y3JvcD0x",
+    "https://imgs.search.brave.com/BdX54R5O-NhRF4H7SXHLmCQdpxR8pqydx5KrMHIdL3g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jcm9w/cGVyLndhdGNoLmFl/dG5kLmNvbS9jZG4u/d2F0Y2guYWV0bmQu/Y29tL3NpdGVzLzIv/MjAxNS8wOS9WaWtp/bmdzLXM2Qi0yMDQ4/eDExNTItcHJpbWFy/eS0xNng5LTEuanBn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1f"
+  },
+  "id": 12,
+  "text": "Does Breaking Bad have",
+  "text2": "more viewers than Better Call Saul?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/FEWpecJA6jk-GfaY91XoVElpQjS443Bphi9YtCAw8Q4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qRTFPVE13/TlRBNU5WNUJNbDVC/YW5CblhrRnRaVGd3/TURrek9UQTFOak1A/LmpwZw",
+    "https://imgs.search.brave.com/JBiox1X7LDlRvHhUVJ-wFFrI-JMR0QhTqKtwdKcCrkg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk4yWm1ZbUZr/T1RndE56bGxPUzAw/T1RVMUxXRTJabVV0/Tm1KbVpEWTRORGRr/TUdSalhrRXlYa0Zx/Y0dkZVFYWjNaWE5z/WlhrQC5qcGc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a20"
+  },
+  "id": 13,
+  "text": "Does The Walking Dead have",
+  "text2": "more viewers than Fear the Walking Dead?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/9X2WxGw2BMr-DeXa1RCAaeH5S9zgy8HG2TJMqm3XuWI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMyLm1pbnV0ZW1l/ZGlhY2RuLmNvbS9p/bWFnZS91cGxvYWQv/Y19maWxsLHdfNzIw/LGFyXzE2OjksZl9h/dXRvLHFfYXV0byxn/X2F1dG8vc2hhcGUv/Y292ZXIvc3BvcnQv/NTRkNGE3ZDNjMzc5/ZTE2OWI0OGI0ZDI0/ZWMyZDJkOGFiODZj/YWRkYzRmNWEwNjQz/MmMwOWM3NDZhMzM3/Mjk4Yy5qcGc",
+    "https://imgs.search.brave.com/7IIkpTM6Kc7zBrFUFxH-t5tqc4KuSiNOTg_j_G5WB-I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9udHZi/LnRtc2ltZy5jb20v/YXNzZXRzL3AxMTg3/Nzk1Nl9iX2g4X2Fi/LmpwZz93PTk2MCZo/PTU0MA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a21"
+  },
+  "id": 14,
+  "text": "Does Friends have",
+  "text2": "more viewers than How I Met Your Mother?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/CRGxG_6OyCM5sUKXWtZwnP_LVnImnlRix942TxXb4YM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/cWFfYy1PekxNVWV0/VmxnaHcwQkwzUjVa/RFNvPS8xNTAweDAv/ZmlsdGVyczpub191/cHNjYWxlKCk6bWF4/X2J5dGVzKDE1MDAw/MCk6c3RyaXBfaWNj/KCk6Zm9jYWwoNzM0/eDMzOTo3MzZ4MzQx/KS9mcmllbmRzLWNh/c3QtMi1kYjdmM2Zm/ODNjZjk0NmEwYmU4/Yzg4NDE3YzA4MTYw/Ny5qcGc",
+    "https://imgs.search.brave.com/sGuK17KOpzmKSkoAPCeYiIfouRPFFaPdXVjIffH-jCA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWV3aXJlLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ny8wMi9oaW15bXN1/cGVyYm93bC5qcGc_/dz02NDAmaD00MDUm/Y3JvcD0x"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a22"
+  },
+  "id": 15,
+  "text": "Does Grey's Anatomy have",
+  "text2": "more viewers than ER?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/-JpqiMjH7bLaUYpg6h9dJmesT-qkicUjAUnSfo_woBQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHZndWlkZS5jb20v/YS9pbWcvcmVzaXpl/LzU1MTc3YjA0YTAw/NmJjYjZhZWM0YzJk/ZTMyMmNjMjQ1OWQz/ZmY4NjAvaHViLzIw/MjMvMDQvMTAvYWE4/OTVhZTMtNTQzYS00/MWNjLThmYTktMWY3/Y2ViNjU1NjVhLzE2/NDg5NS0wNDMyLmpw/Zz9hdXRvPXdlYnAm/d2lkdGg9MTA5Mg",
+    "https://imgs.search.brave.com/-alcrjQ6o4SLgD-bolSDrQ1ysMZfQ2BEuQTlB7QuPbY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HWTJNbU01/TTJFdE1tRTNZaTAw/TmpNeExXSTFPR0l0/TWpKbU16WmpOalEw/TnpoaFhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a23"
+  },
+  "id": 16,
+  "text": "Does Narcos have",
+  "text2": "more viewers than Narcos: Mexico?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/Ze5vG8CvyVXxJ0iHbaVzdQ8VTbrnGFn48om8uGvHiOs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpqbGxNR1ps/Wm1NdE5tUTJOUzAw/Wm1aakxUaGtNRFF0/TlRVNU1XSmxOREZp/WkRnMVhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn",
+    "https://imgs.search.brave.com/a-RkA9o2ZQf7GhzClwAflI2Ma7ooMC5Mcg4xX93rIro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9uYXJj/b3MtbWV4aWNvLXNl/YXNvbi0zLTE2MzE2/MDcxMjUuanBnP3Jl/c2l6ZT05ODA6Kg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a24"
+  },
+  "id": 17,
+  "text": "Does House of Cards have",
+  "text2": "more viewers than The West Wing?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/eKqQceNcnjGpTIEWUVqDTJapfm1fna687Fo1vhV_0pc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHZpbnNpZGVyLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8wMi9IT0NfNDA5/XzAxMjkzcjEtNDUw/eDI4OS5qcGc",
+    "https://imgs.search.brave.com/B3jTBISJvfv2OW7BDH_nfstHjv9IJ5OQkutV_3NMwSw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92YXJp/ZXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8xMC93/ZXN0d2luZ19zcGVw/XzA5MjAyMDIwX2Vj/XzIxOTctMS1lMTYy/NDYzOTQ3MzMwOC5q/cGc_dz0xMDAwJmg9/NTYzJmNyb3A9MQ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a25"
+  },
+  "id": 18,
+  "text": "Does Stranger Things have",
+  "text2": "more viewers than The Crown?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/kVR_SXG2tw7kj6fBig--xo4ZXJEE0gPjzA_7w6dGDSI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/NnAwcTRNa0xFZHNk/SFBidzNkTXlnQm5x/c2owPS8xNTAweDAv/ZmlsdGVyczpub191/cHNjYWxlKCk6bWF4/X2J5dGVzKDE1MDAw/MCk6c3RyaXBfaWNj/KCk6Zm9jYWwoNzk5/eDA6ODAxeDIpL3N0/cmFuZ2VyLXRoaW5n/cy1uZXRmbGl4LWZs/aXhvY3QwOTE3LTZh/Y2E2YWZiY2Y4ZDQy/Yjc4ODlhNDM2YjRm/ZWQyY2NlLmpwZw",
+    "https://imgs.search.brave.com/ffLPAKh5yu25uPDgNioFG8TWHUxGmp5koC_3gZU2GNE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzQx/NDcwYzg3LWFiMzMt/NDMxMS1iMWQyLWY3/ODhiNTY4ZmU5Yy5f/X0NSMCw0OCwyMDAw/LDEyMzdfUFQwX1NY/OTcwX1YxX19fLmpw/Zw"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a26"
+  },
+  "id": 19,
+  "text": "Does The Simpsons have",
+  "text2": "more viewers than Family Guy?",
+  "answer": true,
+  "imageUrls": [
+    "https://imgs.search.brave.com/7DICZ5ZgUh0JVvMZx5nGi1kqPMI5v2-WuXWwjmrGPe0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ueXBv/c3QuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9zaXRlcy8yLzIw/MjQvMDQvc2Vhc29u/LTI2LWVwLTI2MTYt/ODA1NjExMzdfZDUw/NzBjLmpwZz93PTEw/MjQ",
+    "https://imgs.search.brave.com/G8M3BL9zYCb9yQr3P4AJMHmTWuCFHEZbXYTl0_3XOJ8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzEyL2U4/L2JmLzEyZThiZjJm/YzYxZmJhMGU5Nzkw/MzJjMDFiYjU4YzAz/LmpwZw"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a27"
+  },
+  "id": 20,
+  "text": "Does Chernobyl have",
+  "text2": "more viewers than The Crown?",
+  "answer": false,
+  "imageUrls": [
+    "https://imgs.search.brave.com/cmdq50mmZ0v8n7WyGrYLsH_4lyOyzjJatYuq3JRUnlU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9udHZi/LnRtc2ltZy5jb20v/YXNzZXRzL3AxNjY4/NjcyOV9iX2g4X2Fk/LmpwZz93PTk2MCZo/PTU0MA",
+    "https://imgs.search.brave.com/ffLPAKh5yu25uPDgNioFG8TWHUxGmp5koC_3gZU2GNE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzQx/NDcwYzg3LWFiMzMt/NDMxMS1iMWQyLWY3/ODhiNTY4ZmU5Yy5f/X0NSMCw0OCwyMDAw/LDEyMzdfUFQwX1NY/OTcwX1YxX19fLmpw/Zw"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a28"
+  },
+  "id": 21,
+  "text": "Does The Great have",
+  "text2": "more viewers than Dickinson?",
+  "answer": false,
+  "imageUrls": [
+    "https://i.ytimg.com/vi/porSE6GlclE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-DBu4H-0oPmlL3N8yzwSiZ_cYcw",
+    "https://tv-fanatic-res.cloudinary.com/iu/s--pbVnHHvj--/f_auto,q_auto/v1611861612/lavinia-and-sue-dickinson-s2e6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a29"
+  },
+  "id": 22,
+  "text": "Does Warrior Nun have",
+  "text2": "more viewers than Cursed?",
+  "answer": false,
+  "imageUrls": [
+    "https://deadline.com/wp-content/uploads/2023/08/warrior-nun-alba-baptista-ava-silva.jpg?w=1024",
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbXY76cZLJkq5UKR2KEa7aGzYtT2UAxgN1Q0c79n3BgI_e36uk8FMswho4h5rqsmlcsvVZ3p_cBKGhzyWi4NCsurbHr66QenCh2f5TFcEbuZbjI-7LrNqLDD.jpg?r=20d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a30"
+  },
+  "id": 23,
+  "text": "Does Severance have",
+  "text2": "more viewers than The dropout?",
+  "answer": true,
+  "imageUrls": [
+    "https://compote.slate.com/images/6e99d534-a751-4831-ad8d-554e195e273e.jpeg?crop=1013%2C675%2Cx0%2Cy0",
+    "https://variety.com/wp-content/uploads/2021/12/The-Dropout-02.jpg?w=1000"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a31"
+  },
+  "id": 24,
+  "text": "Does Arcane have",
+  "text2": "more viewers than Castlevania?",
+  "answer": true,
+  "imageUrls": [
+    "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F09%2Fnetflix-arcane-season-2-2024-premiere-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbQ_O2o0pZElcGjTAsoaHdDP5eK3HvTbNXJbJ2rldreVmTlNNT-7bO4dkGlOT_0S74LK64VIHLGH_pbsIWixU7qHbVjL6c3XQfFfSc6VaGaiUxaD5zxqfLYK8g.jpg?r=d47"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a32"
+  },
+  "id": 25,
+  "text": "Does Midnight Mass have",
+  "text2": "more viewers than The Outsider?",
+  "answer": false,
+  "imageUrls": [
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRyFvM1-ZTkL7DTkl8nesV-VVmL76G0JEI0-qy_WdbSLkXHOjGrUjKjfiBbs0iszvrrH5kebbPHqE0CbhWqV_NPPqULFZDOzD7h3iIj0Otyuk0yZouAP0KLo.jpg?r=cf9",
+    "https://assets.playbill.com/editorial/_articleLeadImage/01_OUT_PhotoArt_HeroPhoto_A_Photo_By_Miller_Mobley.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a33"
+  },
+  "id": 26,
+  "text": "Does YellowJackets have",
+  "text2": "more viewers than The Wilds?",
+  "answer": true,
+  "imageUrls": [
+    "https://wwwimage-us.pplusstatic.com/base/files/seo/yj_s02_social_1200x627.jpg",
+    "https://i0.wp.com/thekoalition.com/images/2021/01/3189363.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg?fit=750%2C422&ssl=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a34"
+  },
+  "id": 27,
+  "text": "Does Cobra Kai have",
+  "text2": "more viewers than Daredevil?",
+  "answer": true,
+  "imageUrls": [
+    "https://variety.com/wp-content/uploads/2024/05/Cobra-Kai-season-6.jpg?w=1000&h=667&crop=1",
+    "https://variety.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-07-at-5.05.29-PM.png?w=1000&h=563&crop=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a35"
+  },
+  "id": 28,
+  "text": "Does P valley have",
+  "text2": "more viewers than Harlem?",
+  "answer": false,
+  "imageUrls": [
+    "https://i.insider.com/629a1690e319620018a85cf1?width=700",
+    "https://www.indiewire.com/wp-content/uploads/2021/12/HRLM_S1_101_200210_SHASAR_1436RC.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a36"
+  },
+  "id": 29,
+  "text": "Does Dr. Death have",
+  "text2": "more viewers than The Good Doctor?",
+  "answer": true,
+  "imageUrls": [
+    "https://www.peacocktv.com/dam/growth/assets/Originals/DrDeath/dr-death-s2-social.jpg",
+    "https://whstoday.com/wp-content/uploads/2017/11/The_Good_Doctor_2017.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a37"
+  },
+  "id": 30,
+  "text": "Does Loki have",
+  "text2": "more viewers than Wandavision?",
+  "answer": true,
+  "imageUrls": [
+    "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/10/a1-3.jpg",
+    "https://cdn.mos.cms.futurecdn.net/rBa6zgmtewGMwNHEacP2Ao.jpg"
+  ]
+}]
